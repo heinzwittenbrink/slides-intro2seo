@@ -267,7 +267,6 @@ KPI: Ranking
 - Sind die Unterseiten richtig kategorisiert und thematisch miteinander verknüpft?
 - Sind die URLs sprechend und nicht zu lang?
 
-
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
 ## SERP > Optimierung > Benennung der Inhalte
@@ -305,9 +304,11 @@ KPI: Ranking
 
 ## Snippet > Touchpoint
 
-> Gemeint ist die Kombination von der großen Überschrift, dem Teasertext und der URL der angezeigten Seite, die bei der Ergebnisliste einer Suchmaschine angezeigt wird. [[Snippet Definition | Gründerszene](https://www.gruenderszene.de/lexikon/begriffe/snippet)]
+> Gemeint ist die Kombination von der großen Überschrift, dem Teasertext und der URL der angezeigten Seite, die bei der Ergebnisliste einer Suchmaschine angezeigt wird.
 
-##
+[[Snippet Definition | Gründerszene](https://www.gruenderszene.de/lexikon/begriffe/snippet)]
+
+## Snippet > Rich Snippet
 
 > Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können[[SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)]
 
@@ -464,15 +465,17 @@ Bewerber um Jobs
 
 - Zusammenfassungen
 
-## Linksammlung
-
-[Pinboard: bookmarks for heinzwittenbrink tagged 'highered'](https://pinboard.in/u:heinzwittenbrink/t:HigherEd/)
 
 ## Zielgruppe Studieninteressierte
 
 Gerry McGovern: [Putting current students first](https://de.slideshare.net/gerrymcgovern/putting-current-students-first)
 
 [Fighting the Content Monster: Content Strategy for HigherEd von Brigitte Alice Radl auf Prezi](https://prezi.com/hthrikqe8qvj/fighting-the-content-monster-content-strategy-for-highered/)
+
+## Linksammlung
+
+[Pinboard: bookmarks for heinzwittenbrink tagged 'highered'](https://pinboard.in/u:heinzwittenbrink/t:HigherEd/)
+
 
 # Zukunft der Suche
 
