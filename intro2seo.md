@@ -435,7 +435,7 @@ KPIs: Verweildauer, Aktionen
 
 # Praxis
 
-## Suchimtentionen bei Fachhochschulwebsites
+## Suchintentionen bei Fachhochschulwebsites
 
 Interessenten
 
@@ -445,13 +445,11 @@ Bewerber um Jobs
 
 Õffentlichkeit?
 
-# Optimierung für Interessenten
+## Optimierung für Interessenten
 
-## Navigationsinteresse
-
-## Informationsinteresse
-
-## Transaktionsinteresse
+- Navigationsinteresse
+- Informationsinteresse
+- Transaktionsinteresse
 
 ## SEO-Konzept:
 
@@ -477,7 +475,7 @@ Gerry McGovern: [Putting current students first](https://de.slideshare.net/gerry
 [Pinboard: bookmarks for heinzwittenbrink tagged 'highered'](https://pinboard.in/u:heinzwittenbrink/t:HigherEd/)
 
 
-# Zukunft der Suche
+# Zukunft der Suche?
 
 
 
