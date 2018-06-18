@@ -270,7 +270,7 @@ KPI: Ranking
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
-## SERP > Optimierung > Benennung der Inhalte in URLs, Titeln und Überschriften
+## SERP > Optimierung > Benennung der Inhalte
 
 - Werden Titel oder Überschriften wiederholgt?
 - Gibt es generierte, nicht sprechende Titel oder Überschriften?
@@ -307,7 +307,9 @@ KPI: Ranking
 
 > Gemeint ist die Kombination von der großen Überschrift, dem Teasertext und der URL der angezeigten Seite, die bei der Ergebnisliste einer Suchmaschine angezeigt wird. [[Snippet Definition | Gründerszene](https://www.gruenderszene.de/lexikon/begriffe/snippet)]
 
-> Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können[[Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können. ](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)]
+##
+
+> Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können[[SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)]
 
 . 
 ## Snippet > Platz der Entscheidung für den Klick
@@ -370,10 +372,10 @@ KPI: Ladezeit
 - Ladezeit verkürzen
 - Seitenaufbau steuern
 
-## Laden der Landing Page >Optimierung > Werkzeuge
+## Laden der Landing Page > Optimierung > Werkzeuge
 
-- Pingdom
-- Google Pageload-Tool
+- Pingdom [Website speed test](https://tools.pingdom.com/)
+- Google Pageload-Tool [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 # Landing Page
 
@@ -384,7 +386,7 @@ KPI: Ladezeit
 - Scanbarkeit
 - Wahrnehmbare Hierarchie
 
-## Landing Page: >Interaktion
+## Landing Page > Interaktion
 
 - Beschäftigung mit dem Inhalt
 - Bouncen
@@ -461,6 +463,16 @@ Bewerber um Jobs
 - Content-Typen
 
 - Zusammenfassungen
+
+## Linksammlung
+
+[Pinboard: bookmarks for heinzwittenbrink tagged 'highered'](https://pinboard.in/u:heinzwittenbrink/t:HigherEd/)
+
+## Zielgruppe Studieninteressierte
+
+Gerry McGovern: [Putting current students first](https://de.slideshare.net/gerrymcgovern/putting-current-students-first)
+
+[Fighting the Content Monster: Content Strategy for HigherEd von Brigitte Alice Radl auf Prezi](https://prezi.com/hthrikqe8qvj/fighting-the-content-monster-content-strategy-for-highered/)
 
 # Zukunft der Suche
 
