@@ -26,6 +26,13 @@ date: 2018-06-18
 
 # Bedeutung der Suche
 
+
+##
+
+![](https://dri.es/files/images/blog/push-pull.gif)
+
+Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reverse-of-the-web)
+
 ##
 
 - Suche, Sharen und Abonnieren sind die wichtigsten Zugänge zu Online-Inhalten
@@ -139,6 +146,19 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Keyword Tools
 
 
+## Sucheingabe > Optimierung > Keywords finden
+
+- [Kostenlose SEO Keyword-Tools](http://www.keyword-tools.org/)
+
+- [Google Keyword Planer](https://adwords.google.com/aw/keywordplanner/home?ocid=88008662&__c=9405264038&authuser=0&__u=4127418278) (Anleitung, 2018 aktualisiert: [Google-Keyword-Planner: Die ultimative Anleitung | ❤ t3n](https://t3n.de/news/google-keyword-planer-anleitung-477330/))
+
+- [Google Trends](https://trends.google.de/trends/?geo=DE)
+
+- [Google Correlate](https://www.google.com/trends/correlate)
+
+- Google Suggest (Entpersonalisiert: [Individuelle Suchergebnisse bei Google abschalten - computer.daten.netze :: feenders.de - berlin-kreuzberg](https://www.feenders.de/ratgeber/anwender/581-individuelle-suchergebnisse-bei-google-abschalten.html))
+
+
 
 # Search Engine Result Page (SERP)
 
@@ -188,8 +208,20 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 <iframe width="844" height="425" src="https://www.youtube.com/embed/BNHR6IQJGZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## SERP > Bewerten der Relevanz
+## SERP > Bewerten der Relevanz und Qualität
 
+[Search Quality rater guidelines](https://static.googleusercontent.com/media/www.google.com/de//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) (PDF)
+
+[Moz - Google Algorithm Change History](https://moz.com/google-algorithm-change)
+
+[A Visual History of Google Algorithm Updates](https://blog.hubspot.com/marketing/google-algorithm-visual-history-infographic)
+
+
+## SERP > Bewerten der Relevanz und Qualität
+
+- [Content-Strategie statt SEO: Die Folgen von »Panda«](https://wittenbrink.net/lostandfound/content-strategie-statt-seo-die-folgen-von-panda/)
+
+- [Wie bewertet Google die Qualität von Inhalten?—Material zu Panda - Lost and Found](https://wittenbrink.net/lostandfound/wie-bewertet-google-die-qualitaet-von-inhaltenmaterial-zu-panda/)
 
 ## SERP > Ranking Signals
 
@@ -206,7 +238,6 @@ KPI: Ranking
 
 ## SERP > Optimierung
 
-
 - Benennung der Inhalte in URLs, Titeln und Überschriften
 - Benennung der Inhalte in Navigations- und Inline-Links
 - Bilder und Medien beschreiben
@@ -220,15 +251,6 @@ KPI: Ranking
 - Reputation und Verlinkung
 - Vertrauenswürdigkeit der Quelle
 
-## SERP > Optimierung > Indizierung
-
-- Ist der Google-Bot als Crawler zugelassen? (robots.txt/User-Agent-Weiche)
-- Wird die Webseite regelmäßig von Google gecrawlt?
-- Werden wichtige Verzeichnisse oder Unterseiten blockiert?
-- Existiert eine gültige sitemap.xml?
-- Werden wichtige Inhalte der Webseite durch die robots.txt oder über die Robots-Meta ausgeschlossen?
-
-(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
 ## SERP > Optimierung > Indizierung
 
@@ -262,7 +284,7 @@ KPI: Ranking
 ## SERP > Optimierung > Navigation
 
 - Ist die Seitennavigation leicht verständlich?
-- Verfügt eure Seite über eine Breadcrumb-Navigationt?
+- Verfügt eure Seite über eine Breadcrumb-Navigation?
 - Sind alle wichtigen Unterseiten in maximal vier Klicks erreichbar?
 - Sind die Unterseiten richtig kategorisiert und thematisch miteinander verknüpft?
 - Sind die URLs sprechend und nicht zu lang?
@@ -271,7 +293,7 @@ KPI: Ranking
 
 ## SERP > Optimierung > Benennung der Inhalte
 
-- Werden Titel oder Überschriften wiederholgt?
+- Werden Titel oder Überschriften wiederholt?
 - Gibt es generierte, nicht sprechende Titel oder Überschriften?
 - Wird in Titeln oder Überschriften bedeutungsloser Marketing-Sprech verwendet?
 - Gibt es zu lange Titel?
@@ -306,14 +328,19 @@ KPI: Ranking
 
 > Gemeint ist die Kombination von der großen Überschrift, dem Teasertext und der URL der angezeigten Seite, die bei der Ergebnisliste einer Suchmaschine angezeigt wird.
 
-[[Snippet Definition | Gründerszene](https://www.gruenderszene.de/lexikon/begriffe/snippet)]
+[Snippet Definition | Gründerszene](https://www.gruenderszene.de/lexikon/begriffe/snippet)
+
+---
 
 ## Snippet > Rich Snippet
 
-> Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können[[SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)]
+> Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können.
 
+[SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)
+
+---
 . 
-## Snippet > Platz der Entscheidung für den Klick
+## Snippet > Entscheidung für den Klick
 
 - URL und Headline
 - Zitat
@@ -431,7 +458,6 @@ KPIs: Verweildauer, Aktionen
 - Navigationspfade ermöglichen
 - CTAs einfügen
 
-- 
 
 # Praxis
 
@@ -466,11 +492,15 @@ Bewerber um Jobs
 
 ## Zielgruppe Studieninteressierte
 
-Gerry McGovern: [Putting current students first](https://de.slideshare.net/gerrymcgovern/putting-current-students-first)
+- Gerry McGovern: [Putting current students first](https://de.slideshare.net/gerrymcgovern/putting-current-students-first)
 
-[Fighting the Content Monster: Content Strategy for HigherEd von Brigitte Alice Radl auf Prezi](https://prezi.com/hthrikqe8qvj/fighting-the-content-monster-content-strategy-for-highered/)
+- [Teenage Web UX: Designing Teen-Targeted Sites](https://www.nngroup.com/articles/usability-of-websites-for-teenagers/)
 
-## Linksammlung
+- [Fighting the Content Monster: Content Strategy for HigherEd von Brigitte Alice Radl auf Prezi](https://prezi.com/hthrikqe8qvj/fighting-the-content-monster-content-strategy-for-highered/)
+
+## Links
+
+[Pinboard: bookmarks for heinzwittenbrink tagged 'seo'](https://pinboard.in/u:heinzwittenbrink/t:SEO/)
 
 [Pinboard: bookmarks for heinzwittenbrink tagged 'highered'](https://pinboard.in/u:heinzwittenbrink/t:HigherEd/)
 
