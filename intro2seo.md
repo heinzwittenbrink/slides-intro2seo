@@ -1,17 +1,21 @@
 ---
 author: Heinz Wittenbrink
-title: SEO für FHs
-date: 2018-06-18
+title: SEO und Akademische SEO
+date: 2019-04-04
 ---
 
 
 
 # Einleitung
 
+
+
 ## Ziele
 
 - Verständnis von SEO als Teil user-orientierten Designs
-- Exemplarisches Entwickeln eines SEO-Konzepts für einen Teil einer Hochschul-Website
+- Verständnis der Besonderheiten akademischer SEO
+
+<!--
 
 ## Ablauf
 
@@ -23,6 +27,7 @@ date: 2018-06-18
 |15:15 - 16:45| Gruppenarbeit: Entwicklung eines SEO-Konzeptes|
 |17:00 - 18:00 | Zukunft der Suche|
 
+-->
 
 # Bedeutung der Suche
 
@@ -32,6 +37,8 @@ date: 2018-06-18
 ![](https://dri.es/files/images/blog/push-pull.gif)
 
 Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reverse-of-the-web)
+
+<!--
 
 ##
 
@@ -54,6 +61,8 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 </div>
 
+-->
+
 # Findbarkeit als Service
 
 
@@ -63,35 +72,36 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 ## Ganzheitliches Verständnis von SEO
 
 - Suche wird Gesamtvorgang erlebt
-- Die Phasen beeinflussen sich Gegenseitig
+- Die Phasen beeinflussen sich gegenseitig
 - Zeit und kognitiver Aufwand sind entscheidende Faktoren
 - Die Qualität der Nutzererfahrung beeinflusst die SEO
 
 ## Wie läuft die Suche ab und wo liegen die größten Painpoints?
-
 
 - Touchpoint: Wo findet die Interaktion statt?
 - Interaktion: Was tun die User?
 - Backend: Was passiert bei Suchmaschine und Server?
 - Optimierung: Wie kann ich den Prozess beeinflussen?
 
-## Phasen
+## {data-background="svg/search_as_service.svg" data-background-size="contain"}
 
-
-<div style="font-size: small">
-
-| **Touchpoint** | Suchfenster, Adresszeile, Spracheingabe | SERP | Snippet | Wechsel Browser->Ergebnis  | "Landing Page"/Einstiegsseite | Content | 
-| --- | --- | --- | --- | --- | --- |--- | --- |
-|**Interaktion**| Frage stellen | Orientierung | Auswahl | Warten | Ergebnis prüfen | Ergebnis verwenden |
-|**SEO-Aufgabe**| Keyword Reseach | On-Page-Faktoren  | Snippet/Rich Cards | Performance | Zeigen der Relevanz für Suche | Verlinkung und CTAs |
-
-</div>
 
 ## Vor der Suche: die Suchintention
 
 - Situation
 - Ort und Zeit
 - Information, Orientierung, Transaktion
+
+##
+
+> It can be  helpful to think of queries as having one or more of the following intents.
+>
+> - Know query [...]
+> - Do  query [...]
+> - Website  query [...]
+> - Visit-in-person  query, some of which are looking for a specific business or organization, some of which arelooking for a category of businesses
+
+<p class="rights">[Google Search Quality Evaluator Guidelines](https://static.googleusercontent.com/media/www.google.%20com/de//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)</p>
 
 # Sucheingabe
 
@@ -108,16 +118,15 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Verarbeitet werden Text- (Bildeingabe) und Daten über den Client
 - Suchvorschläge werden interaktiv ergänzt
 
-
 ## Sucheingabe > Behind the scene
 
 - Semantische Interpretation
 - Aufruf der personalisierten Suchgeschichte für Suchvorschläge
 
-## Sucheingabe> Optimierung
+## Sucheingabe > Optimierung
 
 - Keyword-Research
-- Sprachliche Alternativen
+- Synonyme/ Sprachliche Alternativen
 
 ## Sucheingabe > Optimierung > Keywords
 
@@ -322,6 +331,8 @@ KPI: Ranking
 
 [Varvy SEO tool and optimization guide](https://varvy.com/)
 
+
+
 # Snippet
 
 ## Snippet > Touchpoint
@@ -339,7 +350,7 @@ KPI: Ranking
 [SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)
 
 ---
-. 
+
 ## Snippet > Entscheidung für den Klick
 
 - URL und Headline
@@ -405,6 +416,7 @@ KPI: Ladezeit
 - Pingdom [Website speed test](https://tools.pingdom.com/)
 - Google Pageload-Tool [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
+
 # Landing Page
 
 ## Landing Page > Touchpoint
@@ -430,6 +442,7 @@ KPI: Bounce Rate
 - Sofortiges Erkennen des gesuchten Inhalts
 - Abstimmung auf Suchintention
 - Relevanz-Signale, Kontextualisierung
+
 
 # Inhalt
 
@@ -458,6 +471,7 @@ KPIs: Verweildauer, Aktionen
 - Navigationspfade ermöglichen
 - CTAs einfügen
 
+<!--
 
 # Praxis
 
@@ -507,5 +521,4 @@ Bewerber um Jobs
 
 # Zukunft der Suche?
 
-
-
+-->
