@@ -17,7 +17,7 @@
       div.column{display: inline-block; vertical-align: top; width: 50%;}
   </style>
   <link rel="stylesheet" href="https://revealjs.com/css/theme/white.css" id="theme">
-  <link rel="stylesheet" href="https://heinzwittenbrink.github.io/styles/customizations.css"/>
+  <link rel="stylesheet" href="--reference-doc=ub_vorlage.potx"/>
   <!-- Printing and PDF exports -->
   <script>
     var link = document.createElement( 'link' );
@@ -236,6 +236,9 @@
 <section id="publish-or-perish" class="slide level1">
 <h1>Publish or Perish</h1>
 <p><a href="https://harzing.com/resources/publish-or-perish" title="Publish or Perish">Publish or Perish</a></p>
+<p>/********************************************** * Customization Heinz Wittenbrink / **********************************************/</p>
+<p>p.rights { font-size: small; color:gray; position: fixed; bottom: 3em; right: 0em; transform: rotate(90deg); transform-origin: right bottom 0; }</p>
+<p>p.rights a {color: gray;}</p>
 </section>
     </div>
   </div>

@@ -4,8 +4,6 @@ title: SEO und Akademische SEO
 date: 2019-04-04
 ---
 
-
-
 # Einleitung
 
 
@@ -13,7 +11,7 @@ date: 2019-04-04
 ## Ziele
 
 - Verständnis von SEO als Teil user-orientierten Designs
-- Verständnis der Besonderheiten akademischer SEO
+- Verständnis allgemeiner Grundlagen von Suchmaschinen und SEO
 
 <!--
 
@@ -66,9 +64,6 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 # Findbarkeit als Service
 
 
-
-
-
 ## Ganzheitliches Verständnis von SEO
 
 - Suche wird Gesamtvorgang erlebt
@@ -78,13 +73,18 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 ## Wie läuft die Suche ab und wo liegen die größten Painpoints?
 
-- Touchpoint: Wo findet die Interaktion statt?
-- Interaktion: Was tun die User?
+- Touchpoints: Wo findet die Interaktion statt?
+- Interaktionen: Was tun, fühlen und denken die User?
 - Backend: Was passiert bei Suchmaschine und Server?
 - Optimierung: Wie kann ich den Prozess beeinflussen?
 
-## {data-background="svg/search_as_service.svg" data-background-size="contain"}
+<!--
+## Suche als Service {data-background="pics/search_as_service.png" data-background-size="contain"}
+-->
 
+## Suche als Service
+
+![](pics/search_as_service.png)
 
 ## Vor der Suche: die Suchintention
 
@@ -95,11 +95,10 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 ##
 
 > It can be  helpful to think of queries as having one or more of the following intents.
->
 > - Know query [...]
 > - Do  query [...]
 > - Website  query [...]
-> - Visit-in-person  query, some of which are looking for a specific business or organization, some of which arelooking for a category of businesses
+> - Visit-in-person  query, some of which are looking for a specific business or organization, some of which are looking for a category of businesses
 
 <p class="rights">[Google Search Quality Evaluator Guidelines](https://static.googleusercontent.com/media/www.google.%20com/de//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)</p>
 
@@ -107,16 +106,16 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 ## Sucheingabe > Touchpoint
 
-- Von der Google-Startseite zur Adresszeile
-- Spracheingabe
-- Finden ohne Suche
-- Siehe: [21 Stats About Voice Search that you Never Knew](http://www.jodynimetz.com/21-stats-about-voice-search-that-you-never-knew)
+- Von der Google-Startseite zur Adresszeile: Suche wird zur Browserfunktion
+- Spracheingabe: Suche als Teil des Universal Computing
+- Finden ohne Suche: Suchintention wird antizipiert
+- Beispiel: [21 Stats About Voice Search that you Never Knew](http://www.jodynimetz.com/21-stats-about-voice-search-that-you-never-knew)
 
-## Sucheingabe > Interaktion
+## Sucheingabe > Interaktionen
 
-- Natürliche Sprache und Operatoren
+- Natürliche Sprache und Operatoren (Advanced Search)
 - Verarbeitet werden Text- (Bildeingabe) und Daten über den Client
-- Suchvorschläge werden interaktiv ergänzt
+- Suchvorschläge werden von der Suchmaschine interaktiv ergänzt
 
 ## Sucheingabe > Behind the scene
 
@@ -127,6 +126,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 - Keyword-Research
 - Synonyme/ Sprachliche Alternativen
+- Verständnis der Intentionen
 
 ## Sucheingabe > Optimierung > Keywords
 
@@ -136,13 +136,14 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 ## Sucheingabe > Optimierung > Keyword-Clouds
 
 - Vor dem Verfassen einzelner Inhalte sollten alle relevanten Keywords/Fragestellungen erhoben werden.
+- Inhalte müssen über Keywords adressiert werden können
 - Es dürfen sich nicht unterschiedliche Inhalte zum selben Keyword Konkurrenz machen.
 
-##
+## Grundlegend zu Inhalten und Suchvorgängen:
 
 [![](pics/mathewson_audience.jpg)](https://www.amazon.de/Audience-Relevance-Search-Targeting-Audiences/dp/0137004206)
 
-##
+## Wichtigstes SEO-Instrument: Google Search Console
 
 [![](pics/search_console.png)](https://www.google.com/webmasters/tools/search-analytics)
 
@@ -153,6 +154,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Foren, Servicefragen u.ä.
 - Soziale Medien
 - Keyword Tools
+- Akademisch: Literatur, Google Scholar
 
 
 ## Sucheingabe > Optimierung > Keywords finden
@@ -175,7 +177,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 ##
 
-![](pics/serp_fh.png){ width=50% }
+![](pics/search_ub.png){ width=50% }
 
 ##
 
@@ -187,7 +189,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Visuelle Inhalte
 
 
-## SERP > Interaktion
+## SERP > Interaktionen
 
 - Auswahl eines Suchergebnisses, Scrollen, Weiterklicken
 - Einschränkung der Suche
@@ -215,7 +217,12 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 ## SERP > Indizierung von Inhalten
 
+<!--
 <iframe width="844" height="425" src="https://www.youtube.com/embed/BNHR6IQJGZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+-->
+
+![](pics/cuts_search.png)
+<https://www.youtube.com/embed/BNHR6IQJGZs>
 
 ## SERP > Bewerten der Relevanz und Qualität
 
@@ -247,10 +254,10 @@ KPI: Ranking
 
 ## SERP > Optimierung
 
-- Benennung der Inhalte in URLs, Titeln und Überschriften
-- Benennung der Inhalte in Navigations- und Inline-Links
-- Bilder und Medien beschreiben
-- Inhaltliches Profil
+- Keywords in URLs, Titeln und Überschriften
+- Keywords in Navigations- und Inline-Links
+- Keywords in der Beschreibung von Bildern und Medien
+- Klares inhaltliches Profil
 
 ## SERP > Optimierung
 
@@ -259,7 +266,6 @@ KPI: Ranking
 - Aktualität
 - Reputation und Verlinkung
 - Vertrauenswürdigkeit der Quelle
-
 
 ## SERP > Optimierung > Indizierung
 
@@ -276,26 +282,25 @@ KPI: Ranking
 - Wieviele Seiten sind im Index?
 - Wieviele Seiten sollten im Index sein?
 - Sind die wichtigen Bereiche indexiert?
-- Anzahl der URLs, die in der Sitemap hinterlegt sind versus wieviele sind im Index?
-- Weisen wichtige Bereiche der Website keinerlei Besucher über Suchmaschinen vor?
-
+- Wieviele URLs in der Sitemap sind im Index?
+- Werden wichtige Bereiche nicht über Google besucht?
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
 ## SERP > Optimierung > Zuordnung zu URLs
 
-- Werden überflüssige doppelte Inhalte vermieden?
-- Gibt es bei notwendigen doppelten Inhalten `canonical`-Links?
-- Konkurrenzieren Seiten für dieselben Abfragen?
+- Gibt es überflüssige doppelte Inhalte?
+- Haben notwendige doppelte Inhalte `canonical`-Links?
+- Gibt es mehr als eine Seite für dieselbe Abfrage?
 - Wird die Indexierung verhindert, wo sie überflüssig ist?
 - Sind die Sprachen korrrekt angegeben?
 
 ## SERP > Optimierung > Navigation
 
-- Ist die Seitennavigation leicht verständlich?
-- Verfügt eure Seite über eine Breadcrumb-Navigation?
-- Sind alle wichtigen Unterseiten in maximal vier Klicks erreichbar?
-- Sind die Unterseiten richtig kategorisiert und thematisch miteinander verknüpft?
+- Ist die Navigation verständlich?
+- Gibt es eine Breadcrumb-Navigation?
+- Sind alle wichtigen Unterseiten in vier Klicks erreichbar?
+- Sind die Unterseiten richtig kategorisiert und verknüpft?
 - Sind die URLs sprechend und nicht zu lang?
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
@@ -304,7 +309,7 @@ KPI: Ranking
 
 - Werden Titel oder Überschriften wiederholt?
 - Gibt es generierte, nicht sprechende Titel oder Überschriften?
-- Wird in Titeln oder Überschriften bedeutungsloser Marketing-Sprech verwendet?
+- Wird in Titeln oder Überschriften Marketing-Sprech verwendet?
 - Gibt es zu lange Titel?
 - Sind alle URLs sprechend/lesbar?
 
@@ -316,7 +321,7 @@ KPI: Ranking
 - Gibt es Widersprüche bei der Verlinkung?
 - Gehen mehr als 100 Links von einer Seite aus?
 - Gibt es wichtige Seiten mit zu wenig Links?
-- Sind relevante Seiten „zu weit“ von der Startseite entfernt (Klickpfad)
+- Sind alle Klickpfade kurz genug?
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
@@ -326,12 +331,9 @@ KPI: Ranking
 - Wird überflüssiges Markup zur Präsentation verwendet?
 - Ist die Hierarchie der Überschriften korrekt?
 
-
 ## SERP > Optimierung > Google Richtlinien
 
 [Varvy SEO tool and optimization guide](https://varvy.com/)
-
-
 
 # Snippet
 
@@ -357,7 +359,7 @@ KPI: Ranking
 - Zitat
 - Strukturierte Information
 
-## Snippet-Interaktion
+## Snippet > Interaktionen
 
 - Scannen
 - Klicken
@@ -374,8 +376,7 @@ KPI: Click Through Rate
 - Sprechende URLs
 - `description`
 - Strukturierte Daten
-- Zusammenfassung in Listen
-
+- Zusammenfassungen in Listen
 
 ## Snippet > Optimierung > Google Hinweise
 
@@ -385,7 +386,6 @@ KPI: Click Through Rate
 
 [Course  |  Search  |  Google Developers](https://developers.google.com/search/docs/data-types/course)
 
-
 # Aufrufen der Landing Page
 
 ## Touchpoint: Übergang zur Landing-Page
@@ -394,7 +394,7 @@ KPI: Click Through Rate
 - Einblendungen
 - Aufbau nach dem Start
 
-## Laden der Landing Page > Interaktion
+## Laden der Landing Page > Interaktionen
 
 - Zurückklicken
 - Abbruch der Suche
@@ -402,7 +402,7 @@ KPI: Click Through Rate
 ## Laden der Landing-Page > Behind the scene
 
 - Generieren der Seite
-- Caching der Seite
+- Caching der Seite (Accelerated Mobile Pages)
 - Transportzeiten
 
 ## Laden der Landing Page > Optimierung
@@ -426,7 +426,7 @@ KPI: Ladezeit
 - Scanbarkeit
 - Wahrnehmbare Hierarchie
 
-## Landing Page > Interaktion
+## Landing Page > Interaktionen
 
 - Beschäftigung mit dem Inhalt
 - Bouncen
@@ -449,13 +449,14 @@ KPI: Bounce Rate
 ## Inhalt > Touchpoint
 
 - Entspricht den Suchintentionen
-- Enthält Call-To-Actions
+- Interaktionsmöglichkeiten / Call-To-Actions
 
 ## Inhalt > Interaktion
 
-- Rezeption der Inhalte oder Transaktion
+- Rezeption der Inhalte, Transaktion oder Navigation
 - Folgen von Links/Navigationssignalen
 - Befolgen von Call-To-Actions
+- Akademisch: Zotieren, Teilen, Speichern/Bookmarken, Vernetzung mit AutorInnen
 
 ## Inhalt > Behind-the-scene
 
@@ -469,7 +470,7 @@ KPIs: Verweildauer, Aktionen
 
 - Qualität sicherstellen
 - Navigationspfade ermöglichen
-- CTAs einfügen
+- Interaktionsmöglichkeiten/CTAs einfügen
 
 <!--
 
