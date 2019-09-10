@@ -1,6 +1,6 @@
 ---
 author: Heinz Wittenbrink
-title: Einführung in die Suchmaschinenoptimierung
+title: Einführung in die SEO
 date: 2019-09-13
 ---
 
@@ -60,6 +60,49 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 :::
 
+# Keine SEO ohne Business-Strategie
+
+##
+
+> Above the fold rankings (the ones that are visible on a web page without scrolling) are a side effect of successful SEO, but not a goal in their own right.
+
+Franz Enzenhofer
+
+<p class="rights">
+[Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer](https://www.fullstackoptimization.com/b/understanding-seo "Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer - fullstackoptimization.com")
+</p>
+
+##
+
+> SEO in its entirety is and always will be the responsibility of your business
+
+Franz Enzenhofer
+
+::: notes
+
+> If you don’t have a product or don’t have a business goal, then create this first. Then, and only then, should you consider SEO.
+
+Franz Enzenhofer
+
+:::
+
+<p class="rights">
+[Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer](https://www.fullstackoptimization.com/b/understanding-seo "Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer - fullstackoptimization.com")
+</p>
+
+## SEO ist keine Aufgabe für Spezialisten
+
+- Traffic hängt von Inhalt, Marketing und Technik ab
+- Alle in einer Organisation müssen SEO-bezogen denken
+- SEO-Fachleute müssen vor allem koordinieren und kommunizieren
+
+::: notes
+
+> The biggest risk is that one part does not want to “get found” or just does not commit to the goal of “getting found.”
+
+F. Enzenhofer
+
+:::
 
 
 # Findbarkeit als Service
@@ -70,7 +113,21 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Suche wird Gesamtvorgang erlebt
 - Die Phasen beeinflussen sich gegenseitig
 - Zeit und kognitiver Aufwand sind entscheidende Faktoren
-- Die Qualität der Nutzererfahrung beeinflusst die SEO
+- Die Qualität der Nutzererfahrung beeinflusst die SEOG
+
+## User Experience bestimmt SEO-Erfolg
+
+- Google experimentiert mit Webinhalten
+- Google misst die User-Erfahrung
+- Gute Usererfahrung verbessert das Ranking
+
+::: notes
+
+> It is surprisingly easy to create a website that attracts lots of traffic for a short time. It is much harder to create a webproperty that maintains this traffic and manages to improve on it. If the user experience is negative from Google’s point of view, you will not keep your traffic
+
+Franz Enzenhofer
+
+:::
 
 ## Wie läuft die Suche ab und wo liegen die größten Painpoints?
 
@@ -79,19 +136,30 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 - Backend: Was passiert bei Suchmaschine und Server?
 - Optimierung: Wie kann ich den Prozess beeinflussen?
 
+
+## {data-background="pics/search_as_service.png" data-background-size="contain"}
+
 <!--
-## Suche als Service {data-background="pics/search_as_service.png" data-background-size="contain"}
--->
 
 ## Suche als Service
 
 ![](pics/search_as_service.png)
+
+-->
 
 ## Vor der Suche: die Suchintention
 
 - Situation
 - Ort und Zeit
 - Information, Orientierung, Transaktion
+
+::: notes
+
+> A query can range from a word to multiple words to a full sentence. It’s rarely even a thought; it’s usually half of a thought, one that the user is still thinking. Quite often it’s not even spelled right or in a logical order. But every user that googles has an intent: a “job to be done,” something they want to achieve. Everybody does it, all the time, without much thinking. They just google.
+
+Franz Enzenhofer
+
+:::
 
 ##
 
@@ -122,6 +190,12 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 - Semantische Interpretation
 - Aufruf der personalisierten Suchgeschichte für Suchvorschläge
+
+::: notes
+
+> Google takes these chaotic, fragmented and often nonsensical queries, and enriches it with everything they know about the user.
+
+:::
 
 ## Sucheingabe > Optimierung
 
@@ -243,6 +317,23 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 ## SERP > Ranking Signals
 
 [The Periodic Table of SEO Success Factors - Search Engine Land](https://searchengineland.com/seotable)
+
+## SERP > Distribution
+
+- Alle relevanten Inhalte müssen Google mitgeteilt werden
+- Sie werden indiziert, wenn sie Google Qualitätskriterien entsprechen
+- Wichtigstes Hilfsmittel für die Distribution sine Sitemaps
+
+::: notes
+
+> Simple answer is yes, you need a systematic distribution - a sitemap.xml logic. It is the only scalable way to tell if Google has crawled and indexed your content.
+
+Franz Enzenhofer
+
+## SERP > Optimierung
+
+- Moderne Suchmaschinen ranken nicht kontinuierlich gleich.
+- Das Ranking hängt vom Kontext ab.
 
 ## SERP > Optimierung
 
@@ -379,6 +470,17 @@ KPI: Click Through Rate
 - Strukturierte Daten
 - Zusammenfassungen in Listen
 
+## Snippet: URLs
+- URLs sind Informationen für den User
+- URLs sind keine Dateinamen
+- Kategorien in URL sind problematisch
+
+## URLs - Best Practice
+
+![](https://d1avok0lzls2w.cloudfront.net/uploads/blog/54daf2683e1285.94585673.gif)
+
+<p class="rights">[Rand Fishkin: 15 SEO Best Practices for Structuring URLs - Moz](https://moz.com/blog/15-seo-best-practices-for-structuring-urls "15 SEO Best Practices for Structuring URLs - Moz")</p>
+
 ## Snippet > Optimierung > Google Hinweise
 
 [Aussagekräftige Titel und Snippets für Suchergebnisse erstellen](https://support.google.com/webmasters/answer/35624?hl=de)
@@ -472,6 +574,35 @@ KPIs: Verweildauer, Aktionen
 - Qualität sicherstellen
 - Navigationspfade ermöglichen
 - Interaktionsmöglichkeiten/CTAs einfügen
+
+# SEO in der Praxis
+
+##
+
+> SEO, like anything that has value, is 5% know-how and 95% execution.
+
+Franz Enzenhofer
+
+<p class="rights">
+[Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer](https://www.fullstackoptimization.com/b/understanding-seo "Understanding SEO - A Systematic Approach to SEO by Franz Enzenhofer - fullstackoptimization.com")
+</p>
+
+## Wichtigstes Hilfsmittel: Google und seine Spezifikationen
+
+- <https://webmasters.googleblog.com/>
+- <https://developers.google.com/>
+- <https://www.google.com/webmasters/>
+- <https://support.google.com/webmasters>
+- <https://schema.org>
+- <https://webpagespeedtest.org>
+
+(nach Enzenhofer)
+
+## Keine SEO ohne Feedback
+
+Minimum
+- Google Search Console
+- Google Analytics oder anderes Analytics Tool
 
 <!--
 
