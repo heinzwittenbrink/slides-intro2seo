@@ -322,7 +322,7 @@ Franz Enzenhofer
 
 - Alle relevanten Inhalte müssen Google mitgeteilt werden
 - Sie werden indiziert, wenn sie Google Qualitätskriterien entsprechen
-- Wichtigstes Hilfsmittel für die Distribution sine Sitemaps
+- Wichtigstes Hilfsmittel für die Distribution sind Sitemaps
 
 ::: notes
 
