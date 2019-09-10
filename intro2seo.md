@@ -330,6 +330,8 @@ Franz Enzenhofer
 
 Franz Enzenhofer
 
+:::
+
 ## SERP > Optimierung
 
 - Moderne Suchmaschinen ranken nicht kontinuierlich gleich.
