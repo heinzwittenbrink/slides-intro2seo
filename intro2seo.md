@@ -1,7 +1,7 @@
 ---
 author: Heinz Wittenbrink
-title: SEO und Akademische SEO
-date: 2019-04-04
+title: Einführung in die Suchmaschinenoptimierung
+date: 2019-09-13
 ---
 
 # Einleitung
@@ -36,7 +36,7 @@ date: 2019-04-04
 
 Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reverse-of-the-web)
 
-<!--
+
 
 ##
 
@@ -50,16 +50,17 @@ Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reve
 - Suche wird ubiquitär
 - Suche basiert zunehmend auf semantischer Analyse und Auswertung aller Arten von Daten
 
-<div class="aside"
+::: notes
+
 Wie komme ich analog zu Inhalten? Ich bewege mich zu einem entsprechenden Angebot und suche mir irgendwelche Inhalte aus. Das können die Bücher in einer Buchhandlung oder die Zeitschriften in einem Kiosk sein.
 
 Im Netz gehen wir ganz anders vor, aber wir machen uns den Unterschied oft selbst nicht richtig klar. Im Netz suchen wir gezielt nach Inhalten, wir lassen uns Inhalte, z.b. bei Facebook oder Instagram, empfehlen oder wir abonnieren unsere, spezifisch für uns interessanten QuellenPunkt von diesen drei Zugängen ist die Suche bei weitem der wichtigste.
 
 Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möchte, muss ich mich auf diese Zugänge einstellen. Meine Inhalte müssen teilbar sein, sie müssen abonnierbar sein oder sie müssen findbar seinPunkt die drei Zugänge lassen sich kombinieren, aber meist sind sie aus gutem Grund getrennt, weil die Interessen ganz unterschiedlich sind, die von den Inhalten jeweils befriedigt werden.
 
-</div>
+:::
 
--->
+
 
 # Findbarkeit als Service
 
@@ -221,7 +222,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 <iframe width="844" height="425" src="https://www.youtube.com/embed/BNHR6IQJGZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
 
-![](pics/cuts_search.png)
+![](pics/cutts_search.png)
 <https://www.youtube.com/embed/BNHR6IQJGZs>
 
 ## SERP > Bewerten der Relevanz und Qualität
