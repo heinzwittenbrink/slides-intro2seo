@@ -113,7 +113,7 @@ F. Enzenhofer
 - Suche wird Gesamtvorgang erlebt
 - Die Phasen beeinflussen sich gegenseitig
 - Zeit und kognitiver Aufwand sind entscheidende Faktoren
-- Die Qualität der Nutzererfahrung beeinflusst die SEOG
+- Die Qualität der Nutzererfahrung entscheidet über das Ranking
 
 ## User Experience bestimmt SEO-Erfolg
 
@@ -353,6 +353,17 @@ KPI: Ranking
 - Keywords in der Beschreibung von Bildern und Medien
 - Klares inhaltliches Profil
 
+::: notes
+
+> The internal anchor text is a targeting element. Making sure your internal anchor text is sensemaking, providing an indication of where the link will go, if clicked
+
+> your internal anchor text is a short or long sensemaking variation of the targeted phrase or at least describes the topic of the page
+
+Franz Enzenhofer
+
+
+:::
+
 ## SERP > Optimierung
 
 - Trennen von Informations-, Orientierungs-  und Transaktionsinhalten
@@ -439,11 +450,11 @@ KPI: Ranking
 
 ---
 
-## Snippet > Rich Snippet
+## Snippet > Rich Results
 
-> Rich Snippets sind erweiterte Suchergebnisse, die neben Titel, URL und Description weitere Elemente wie Bewertungen, zusätzliche Sitelinks oder sogar Bilder enthalten können.
+> Rich-Suchergebnis: Ergebnis, das Stile, Bilder und andere Funktionen umfasst. Beispiele für Inhaltstypen mit Rich-Suchergebnissen sind Bücher (siehe Abbildung), Rezepte und Produkte. Beispiele für Funktionen sind Navigationspfade und Rezensions-Snippets.
 
-[SEO-suedwest.de](https://www.seo-suedwest.de/3045-google-rich-snippets-auch-ohne-strukturierte-daten.html)
+[Wie Inhalte in der Google-Suche angezeigt werden  |  Suche  |  Google Developers](https://developers.google.com/search/docs/guides/search-features "Wie Inhalte in der Google-Suche angezeigt werden  |  Suche  |  Google Developers")
 
 ---
 
@@ -482,6 +493,27 @@ KPI: Click Through Rate
 ![](https://d1avok0lzls2w.cloudfront.net/uploads/blog/54daf2683e1285.94585673.gif)
 
 <p class="rights">[Rand Fishkin: 15 SEO Best Practices for Structuring URLs - Moz](https://moz.com/blog/15-seo-best-practices-for-structuring-urls "15 SEO Best Practices for Structuring URLs - Moz")</p>
+
+## Snippet > Optimierung > Meta-Beschreibungen
+
+- Beeinflussen nicht das Ranking
+- Aussagekräftig, aber nicht zu lang
+- Einmalig auf der kompletten Site
+- Möglichst Variation der Keywords
+
+::: notes
+
+it must be sitewide unique
+it should be two to four sentences
+it should be descriptive
+it should include a variation of the targeted phrase
+
+> If you are too “salesy” in the meta description, Google will not display it to the user. In this case, change the meta description and wait until it shows up. This may take a while.
+
+Franz Enzenhofer
+
+
+:::
 
 ## Snippet > Optimierung > Google Hinweise
 
