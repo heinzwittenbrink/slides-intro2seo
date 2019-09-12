@@ -65,7 +65,7 @@ Wenn ich im Netz publizistisch erfolgreich sein will, also Leute erreichen möch
 
 :::
 
-# Keine SEO ohne Business-Strategie
+# Optimieren folgt Geschäftszielen
 
 ##
 
@@ -152,6 +152,8 @@ Franz Enzenhofer
 
 -->
 
+# Phase 0: die Suchintention
+
 ## Vor der Suche: die Suchintention
 
 - Situation
@@ -195,7 +197,11 @@ Franz Enzenhofer
 
 <p class="rights">[Google Search Quality Evaluator Guidelines](https://static.googleusercontent.com/media/www.google.%20com/de//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf)</p>
 
-# Sucheingabe
+# Phase 1: Die Sucheingabe
+
+##
+
+![](pics/google_suggest.png)
 
 ## Sucheingabe > Touchpoint
 
@@ -210,11 +216,8 @@ Franz Enzenhofer
 
 - Natürliche Sprache und Operatoren (Advanced Search)
 - Verarbeitet werden Text- (Bildeingabe) und Daten über die Suchenden
-- Die Suchmaschine ergänzt Suchvorschläge interaktiv
+- Die Suchmaschine ergänzt Suchvorschläge interaktiv (Google Suggest)
 
-## Google Suggest
-
-![](pics/google_suggest.png)
 
 ## Sucheingabe > Behind the scene
 
@@ -276,13 +279,19 @@ Franz Enzenhofer
 - Bezüge (*related entities herstellen*)
 - auf erkennbare Intentionen achten
 
-# Search Engine Result Page (SERP)
-
-## SERP > Touchpoint
+# Phase 2: Ergebnisliste
 
 ##
 
-![](pics/search_ub.png){ width=50% }
+![](pics/search_ub.png){ width=80% }
+
+## Search Engine Result Page (SERP)
+
+- ist der wichtigste Touchpoint bei der Suche
+- ist ein eigener Inhaltstyp
+- wird laufend weiterentwickelt
+
+
 
 ##
 
@@ -405,75 +414,12 @@ Franz Enzenhofer
 - Reputation und Verlinkung
 - Vertrauenswürdigkeit der Quelle
 
-## Indizierung kontrollieren
-
-- Ist der Google-Bot als Crawler zugelassen? (robots.txt/User-Agent-Weiche)
-- Wird die Webseite regelmäßig von Google gecrawlt?
-- Werden wichtige Verzeichnisse oder Unterseiten blockiert?
-- Existiert eine gültige sitemap.xml?
-- Werden wichtige Inhalte der Webseite durch die robots.txt oder über die Robots-Meta ausgeschlossen?
-
-(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
-
-##
-
-- Wieviele Seiten sind im Index?
-- Wieviele Seiten sollten im Index sein?
-- Sind die wichtigen Bereiche indexiert?
-- Wieviele URLs in der Sitemap sind im Index?
-- Werden wichtige Bereiche nicht über Google besucht?
-
-(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
-
-## Checklist: Zuordnung zu URLs kontrollieren
-
-- Gibt es überflüssige doppelte Inhalte?
-- Haben notwendige doppelte Inhalte `canonical`-Links?
-- Gibt es mehr als eine Seite für dieselbe Abfrage?
-- Wird die Indexierung verhindert, wo sie überflüssig ist?
-- Sind die Sprachen korrrekt angegeben?
-
-## Checklist: Navigation
-
-- Ist die Navigation verständlich?
-- Gibt es eine Breadcrumb-Navigation?
-- Sind alle wichtigen Unterseiten in vier Klicks erreichbar?
-- Sind die Unterseiten richtig kategorisiert und verknüpft?
-- Sind die URLs sprechend und nicht zu lang?
-
-(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
-
-## Checklist: Benennung der Inhalte
-
-- Werden Titel oder Überschriften wiederholt?
-- Gibt es generierte, nicht sprechende Titel oder Überschriften?
-- Wird in Titeln oder Überschriften Marketing-Sprech verwendet?
-- Gibt es zu lange Titel?
-- Sind alle URLs sprechend/lesbar?
-
-## Checklist: Interne Links
-
-- Gibt es Fehlerseiten?
-- Gibt es verwaiste Seiten?
-- Sind Seiten falsch weitergeleitet?
-- Gibt es Widersprüche bei der Verlinkung?
-- Gehen mehr als 100 Links von einer Seite aus?
-- Gibt es wichtige Seiten mit zu wenig Links?
-- Sind alle Klickpfade kurz genug?
-
-(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
-
-## Checklist: Semantisch richtige Auszeichnung der Inhalte
-
-- Ist das HTML der Seiten valide?
-- Wird überflüssiges Markup zur Präsentation verwendet?
-- Ist die Hierarchie der Überschriften korrekt?
 
 ## SERP > Optimierung > Google Richtlinien
 
 [Varvy SEO tool and optimization guide](https://varvy.com/)
 
-# Snippet
+# Phase 3: Erfassen der Suchergebnisse
 
 ## Snippet > Touchpoint
 
@@ -556,7 +502,7 @@ Franz Enzenhofer
 
 [Course  |  Search  |  Google Developers](https://developers.google.com/search/docs/data-types/course)
 
-# Aufrufen der Landing Page
+# Phase 4: laden der Landing Page
 
 ## Touchpoint: Übergang zur Landing-Page
 
@@ -587,7 +533,7 @@ KPI: Ladezeit
 - Google Pageload-Tool [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 
-# Landing Page
+# Phase 5: Landing Page
 
 ## Landing Page > Touchpoint
 
@@ -614,7 +560,7 @@ KPI: Bounce Rate
 - Relevanz-Signale, Kontextualisierung
 
 
-# Inhalt
+# Phase 6: Inhalt
 
 ## Inhalt > Touchpoint
 
@@ -641,6 +587,19 @@ KPIs: Verweildauer, Aktionen
 - Qualität sicherstellen
 - Navigationspfade ermöglichen
 - Interaktionsmöglichkeiten/CTAs einfügen
+
+# Phase 7: Nach der Suche
+
+## Welche Daten werden erzeugt
+
+- Daten zur Relevanz und Qualität der Suchergebnisse
+- Daten zum Verhalten der User
+- Testen von Angeboten
+
+## "Brand Retention"
+
+- Erfolgreiche Suchen erhöhen die Markenloyalität
+- SEO muss die Vertrauenswürdigkeit der Marke stärken 
 
 # SEO in der Praxis
 
@@ -748,6 +707,71 @@ Bewerber um Jobs
 
 - Entsprechen die HTML-Tags den Inhalten?
 - Gibt es überflüssiges HTML nur zur Präsentation oder Verarbeitung?
+
+## Indizierung kontrollieren
+
+- Ist der Google-Bot als Crawler zugelassen? (robots.txt/User-Agent-Weiche)
+- Wird die Webseite regelmäßig von Google gecrawlt?
+- Werden wichtige Verzeichnisse oder Unterseiten blockiert?
+- Existiert eine gültige sitemap.xml?
+- Werden wichtige Inhalte der Webseite durch die robots.txt oder über die Robots-Meta ausgeschlossen?
+
+(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
+
+##
+
+- Wieviele Seiten sind im Index?
+- Wieviele Seiten sollten im Index sein?
+- Sind die wichtigen Bereiche indexiert?
+- Wieviele URLs in der Sitemap sind im Index?
+- Werden wichtige Bereiche nicht über Google besucht?
+
+(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
+
+## Checklist: Zuordnung zu URLs kontrollieren
+
+- Gibt es überflüssige doppelte Inhalte?
+- Haben notwendige doppelte Inhalte `canonical`-Links?
+- Gibt es mehr als eine Seite für dieselbe Abfrage?
+- Wird die Indexierung verhindert, wo sie überflüssig ist?
+- Sind die Sprachen korrrekt angegeben?
+
+## Checklist: Navigation
+
+- Ist die Navigation verständlich?
+- Gibt es eine Breadcrumb-Navigation?
+- Sind alle wichtigen Unterseiten in vier Klicks erreichbar?
+- Sind die Unterseiten richtig kategorisiert und verknüpft?
+- Sind die URLs sprechend und nicht zu lang?
+
+(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
+
+## Checklist: Benennung der Inhalte
+
+- Werden Titel oder Überschriften wiederholt?
+- Gibt es generierte, nicht sprechende Titel oder Überschriften?
+- Wird in Titeln oder Überschriften Marketing-Sprech verwendet?
+- Gibt es zu lange Titel?
+- Sind alle URLs sprechend/lesbar?
+
+## Checklist: Interne Links
+
+- Gibt es Fehlerseiten?
+- Gibt es verwaiste Seiten?
+- Sind Seiten falsch weitergeleitet?
+- Gibt es Widersprüche bei der Verlinkung?
+- Gehen mehr als 100 Links von einer Seite aus?
+- Gibt es wichtige Seiten mit zu wenig Links?
+- Sind alle Klickpfade kurz genug?
+
+(Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
+
+## Checklist: Semantisch richtige Auszeichnung der Inhalte
+
+- Ist das HTML der Seiten valide?
+- Wird überflüssiges Markup zur Präsentation verwendet?
+- Ist die Hierarchie der Überschriften korrekt?
+
 
 ## Qualität der Inhalte
 
