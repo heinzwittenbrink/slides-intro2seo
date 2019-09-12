@@ -502,7 +502,7 @@ Franz Enzenhofer
 
 [Course  |  Search  |  Google Developers](https://developers.google.com/search/docs/data-types/course)
 
-# Phase 4: laden der Landing Page
+# Phase 4: Laden der Landing Page
 
 ## Touchpoint: Übergang zur Landing-Page
 
@@ -560,14 +560,14 @@ KPI: Bounce Rate
 - Relevanz-Signale, Kontextualisierung
 
 
-# Phase 6: Inhalt
+# Phase 6: Interaktion mit dem Inhalt
 
-## Inhalt > Touchpoint
+## Inhalt als Touchpoint
 
 - Entspricht den Suchintentionen
 - Interaktionsmöglichkeiten / Call-To-Actions
 
-## Inhalt > Interaktion
+## Handlungsmöglichkeiten
 
 - Rezeption der Inhalte, Transaktion oder Navigation
 - Folgen von Links/Navigationssignalen
@@ -599,9 +599,9 @@ KPIs: Verweildauer, Aktionen
 ## "Brand Retention"
 
 - Erfolgreiche Suchen erhöhen die Markenloyalität
-- SEO muss die Vertrauenswürdigkeit der Marke stärken 
+- SEO muss die Vertrauenswürdigkeit der Marke stärken
 
-# SEO in der Praxis
+# SEO in der Praxis&mdash;Checks
 
 ##
 
@@ -683,7 +683,7 @@ Bewerber um Jobs
 
 -->
 
-# Zusammenfassung / Checks
+
 
 ## Keywords/Targeting
 
@@ -691,10 +691,9 @@ Bewerber um Jobs
 - Wie nennen sie, was sie suchen?
 - Welche Wörter verwenden sie in diesem Zusammenhang?
 
-## Indizierung
 
-- Gibt es eine korrekte Sitemap?
-- Gibt es einen Newsfeed?
+
+
 
 ## Beschreibung der Inhalte
 
@@ -714,7 +713,9 @@ Bewerber um Jobs
 - Wird die Webseite regelmäßig von Google gecrawlt?
 - Werden wichtige Verzeichnisse oder Unterseiten blockiert?
 - Existiert eine gültige sitemap.xml?
-- Werden wichtige Inhalte der Webseite durch die robots.txt oder über die Robots-Meta ausgeschlossen?
+- Gibt es eine korrekte Sitemap?
+- Gibt es einen Newsfeed?
+- Werden wichtige Inhalte der Webseite ausgeschlossen?
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
@@ -769,9 +770,8 @@ Bewerber um Jobs
 ## Checklist: Semantisch richtige Auszeichnung der Inhalte
 
 - Ist das HTML der Seiten valide?
-- Wird überflüssiges Markup zur Präsentation verwendet?
+- Wird überflüssiges Markup verwendet?
 - Ist die Hierarchie der Überschriften korrekt?
-
 
 ## Qualität der Inhalte
 
@@ -794,4 +794,4 @@ Bewerber um Jobs
 
 - Sind die Inhalte scanbar?
 - Passen sie zum Keyword/Targeting?
-- Gibt es sinnvolle Call-to-actions?
+- Gibt es sinnvolle Call-to-Actions?
