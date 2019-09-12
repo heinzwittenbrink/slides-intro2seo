@@ -667,7 +667,8 @@ Franz Enzenhofer
 
 ## Keine SEO ohne Feedback
 
-Minimum
+Minimum:
+
 - Google Search Console
 - Google Analytics oder anderes Analytics Tool
 
@@ -723,7 +724,7 @@ Bewerber um Jobs
 
 -->
 
-# Zusammenfassung/Checks
+# Zusammenfassung / Checks
 
 ## Keywords/Targeting
 
@@ -769,4 +770,4 @@ Bewerber um Jobs
 
 - Sind die Inhalte scanbar?
 - Passen sie zum Keyword/Targeting?
-- Gibt es einen sinnvollen Call-to-action?
+- Gibt es sinnvolle Call-to-actions?
