@@ -1,7 +1,7 @@
 ---
 author: Heinz Wittenbrink
 title: Einführung in die SEO
-date: 2019-09-13
+date: 2020-09-11
 ---
 
 # Einleitung
@@ -50,7 +50,7 @@ Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reve
 - Suche wird ubiquitär
 - Suche basiert zunehmend auf semantischer Analyse und Auswertung aller Arten von Daten
 
-::: notes
+::: notes 
 
 Wie komme ich analog zu Inhalten? Ich bewege mich zu einem entsprechenden Angebot und suche mir irgendwelche Inhalte aus. Das können die Bücher in einer Buchhandlung oder die Zeitschriften in einem Kiosk sein.
 
