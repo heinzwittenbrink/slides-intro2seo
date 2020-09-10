@@ -10,8 +10,8 @@ date: 2020-09-11
 
 ## Ziele
 
-- Verständnis von SEO als Teil user-orientierten Designs
-- Verständnis allgemeiner Grundlagen von Suchmaschinen und SEO
+- Wie mache ich meine Inhalte durch nützlicher und besser nutzbar?
+- Was sollte ich dazu über Suchmaschinen wissen?
 
 <!--
 
@@ -104,6 +104,11 @@ F. Enzenhofer
 
 :::
 
+## SEO ist nicht von Inhalten trennbar
+
+- Inhalte müssen für die Suche entwickelt, nicht nachträglich an sie angepasst werden
+- Nicht nur ein einzelner Inhalt, sondern der komplette Webauftritt muss die Suche unterstützen
+
 
 # Findbarkeit als Service
 
@@ -113,7 +118,7 @@ F. Enzenhofer
 - Suche wird Gesamtvorgang erlebt
 - Die Phasen beeinflussen sich gegenseitig
 - Zeit und kognitiver Aufwand sind entscheidende Faktoren
-- Die Qualität der Nutzererfahrung entscheidet über das Ranking
+- Ranking: Nach oben kommt, was die User am liebsten anklicken
 
 ## User Experience bestimmt SEO-Erfolg
 
@@ -129,10 +134,10 @@ Franz Enzenhofer
 
 :::
 
-## Wie läuft die Suche ab und wo liegen die größten Painpoints?
+## Wie suchen wir, und was geht uns dabei auf die Nerven?
 
-- Touchpoints: Wo findet die Interaktion statt?
-- Interaktionen: Was tun, fühlen und denken die User?
+- Touchpoints: Wo machen die User etwas mit meinem Inhalt?
+- Interaktionen: Was tun, fühlen und denken sie dabei?
 - Backend: Was passiert bei Suchmaschine und Server?
 - Optimierung: Wie kann ich den Prozess beeinflussen?
 
