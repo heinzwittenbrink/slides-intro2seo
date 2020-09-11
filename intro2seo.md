@@ -1,6 +1,6 @@
 ---
-author: Heinz Wittenbrink
-title: Einführung in die SEO
+author: Carmen Ausserhuber, Heinz Wittenbrink
+title: SBS 2020&mdash;Einführung in die SEO
 date: 2020-09-11
 ---
 
@@ -157,9 +157,9 @@ Franz Enzenhofer
 - Eingabe: Inhalt passt zur Anfrage
 - Ergebnisseite: Inhalt steht oben
 - Snippet: User klickt zum Inhalt durch
-- Seitenaufbau: Inhalte lädt schnell
-- Landing Page: Passender Inhalte ist erkennbar
-- Inhalt: Inhalte erfüllt Suchabsicht
+- Seitenaufbau: Inhalt lädt schnell
+- Landing Page: Passender Inhalt ist erkennbar
+- Inhalt: Inhalt erfüllt Suchabsicht
 
 ##
 
