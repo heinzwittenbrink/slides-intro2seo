@@ -10,7 +10,7 @@ date: 2020-09-11
 
 ## Ziele
 
-- Wie mache ich meine Inhalte durch nützlicher und besser nutzbar?
+- Wie mache ich meine Inhalte durch SEO nützlicher und besser nutzbar?
 - Was sollte ich dazu über Suchmaschinen wissen?
 
 <!--
@@ -41,13 +41,13 @@ Quelle: [Dries Buytaert: The Big Reverse of the Web](https://dri.es/the-big-reve
 ##
 
 - Suche, Sharen und Abonnieren sind die wichtigsten Zugänge zu Online-Inhalten
-- Suche als wichtigster Zugang zu Online-Inhalten
+- Die Suche spielt die größte Rolle
 - Durch die Suche steuern die Nutzen den Zugang zu Inhalten
 
 
 ##
 
-- Suche wird ubiquitär
+- Suche bestimmt den ganzen Umgang mit der digitalen Realität
 - Suche basiert zunehmend auf semantischer Analyse und Auswertung aller Arten von Daten
 
 ::: notes
@@ -152,6 +152,23 @@ Franz Enzenhofer
 
 -->
 
+## Phasen der Optimierung
+
+- Eingabe: Inhalt passt zur Anfrage
+- Ergebnisseite: Inhalt steht oben
+- Snippet: User klickt zum Inhalt durch
+- Seitenaufbau: Inhalte lädt schnell
+- Landing Page: Passender Inhalte ist erkennbar
+- Inhalt: Inhalte erfüllt Suchabsicht
+
+##
+
+|Eingabe|SERP|Snippet|Laden|Landing Page|Inhalt|
+|---|---|---|---|---|---|
+|Keywords, Index|Ranking|Beschrei-bung|Tempo|Layout|Qualität|
+
+
+
 ## Vor der Suche: die Suchintention
 
 - Situation
@@ -178,20 +195,20 @@ Franz Enzenhofer
 
 # Sucheingabe
 
-## Sucheingabe > Touchpoint
+## Sucheingabe als Touchpoint
 
 - Von der Google-Startseite zur Adresszeile: Suche wird zur Browserfunktion
 - Spracheingabe: Suche als Teil des Universal Computing
 - Finden ohne Suche: Suchintention wird antizipiert
 - Beispiel: [21 Stats About Voice Search that you Never Knew](http://www.jodynimetz.com/21-stats-about-voice-search-that-you-never-knew)
 
-## Sucheingabe > Interaktionen
+## Sucheingabe: Interaktionen
 
 - Natürliche Sprache und Operatoren (Advanced Search)
 - Verarbeitet werden Text- (Bildeingabe) und Daten über den Client
 - Suchvorschläge werden von der Suchmaschine interaktiv ergänzt
 
-## Sucheingabe > Behind the scene
+## Sucheingabe: Behind the scene
 
 - Semantische Interpretation
 - Aufruf der personalisierten Suchgeschichte für Suchvorschläge
@@ -202,18 +219,18 @@ Franz Enzenhofer
 
 :::
 
-## Sucheingabe > Optimierung
+## Sucheingabe: Optimierung
 
 - Keyword-Research
 - Synonyme/ Sprachliche Alternativen
 - Verständnis der Intentionen
 
-## Sucheingabe > Optimierung > Keywords
+## Optimierung für die Sucheingabe: Keywords
 
 - Suchmaschinenoptimierung beginnt immer mit der Festlegung der Keywords bzw. der Fragen der User.
 - Suche und Suchverhalten liefern die wichtigsten Daten über die User einer Website.
 
-## Sucheingabe > Optimierung > Keyword-Clouds
+## Optimierung für die Sucheingabe: Keyword-Clouds
 
 - Vor dem Verfassen einzelner Inhalte sollten alle relevanten Keywords/Fragestellungen erhoben werden.
 - Inhalte müssen über Keywords adressiert werden können
@@ -223,11 +240,11 @@ Franz Enzenhofer
 
 [![](pics/mathewson_audience.jpg)](https://www.amazon.de/Audience-Relevance-Search-Targeting-Audiences/dp/0137004206)
 
-## Wichtigstes SEO-Instrument: Google Search Console
+## Wichtigstes SEO-Instrument: [Google Search Console](https://search.google.com/search-console/ "Leistung")
 
 [![](pics/search_console.png)](https://www.google.com/webmasters/tools/search-analytics)
 
-## Sucheingabe > Optimierung > Keywords finden
+## Optimierung für die Sucheingabe: Keywords finden
 
 - Sucheingaben analysieren
 - interne Suche
@@ -237,23 +254,22 @@ Franz Enzenhofer
 - Akademisch: Literatur, Google Scholar
 
 
-## Sucheingabe > Optimierung > Keywords finden
+## Keywords Tools
 
-- [Kostenlose SEO Keyword-Tools](http://www.keyword-tools.org/)
+- [Kostenloses SEO Keyword-Tools](http://www.keyword-tools.org/)
 
-- [Google Keyword Planer](https://adwords.google.com/aw/keywordplanner/home?ocid=88008662&__c=9405264038&authuser=0&__u=4127418278) (Anleitung, 2018 aktualisiert: [Google-Keyword-Planner: Die ultimative Anleitung | ❤ t3n](https://t3n.de/news/google-keyword-planer-anleitung-477330/))
+- [Google Keyword Planer](https://adwords.google.com/aw/keywordplanner/home?ocid=88008662&__c=9405264038&authuser=0&__u=4127418278) (Anleitung, 2018: [Google-Keyword-Planner | t3n](https://t3n.de/news/google-keyword-planer-anleitung-477330/))
 
 - [Google Trends](https://trends.google.de/trends/?geo=DE)
 
-- [Google Correlate](https://www.google.com/trends/correlate)
-
-- Google Suggest (Entpersonalisiert: [Individuelle Suchergebnisse bei Google abschalten - computer.daten.netze :: feenders.de - berlin-kreuzberg](https://www.feenders.de/ratgeber/anwender/581-individuelle-suchergebnisse-bei-google-abschalten.html))
+- Google Suggest (Entpersonalisiert:
+[Individuelle Suchergebnisse bei Google abschalten](https://www.feenders.de/ratgeber/anwender/individuelle-suchergebnisse-bei-google-abschalten.html "Individuelle Suchergebnisse bei Google abschalten - computer.daten.netze :: feenders.de - berlin"))
 
 
 
 # Search Engine Result Page (SERP)
 
-## SERP > Touchpoint
+## Die SERP als Touchpoint
 
 ##
 
@@ -263,27 +279,27 @@ Franz Enzenhofer
 
 - Nach Relevanz geordnet
 - Unterschiedliche Inhaltstypen
-- Direkte Antworten (Answer Box)
+- Direkte Antworten (Answer Box, [Beispiel](https://www.google.com/search?client=ubuntu&channel=fs&q=SERP&ie=utf-8&oe=utf-8 "SERP - Google Suche"))
 - Knowledge Graph
-- Position 0
+- Position  ([Position Zero Is Dead](https://moz.com/blog/position-zero-is-dead-long-live-position-zero "Position Zero Is Dead; Long Live Position Zero - Moz"))
 - Visuelle Inhalte
 
 
-## SERP > Interaktionen
+## SERP: Interaktionen
 
 - Auswahl eines Suchergebnisses, Scrollen, Weiterklicken
 - Einschränkung der Suche
 - Zurück zur Eingabe
 - Wechsel mit Landing-Pages
 
-## SERP > Behind the scenes: Die Power der Suchmaschine
+## SERP: Die Power der Suchmaschine
 
 - Interpretation der Sucheingabe
 - Indizierung von Inhalten
 - Bewerten der Relevanz
 - Bewerten der Qualität
 
-## SERP > Behind the scenes: Die Power der Suchmaschine
+## SERP: Die Power der Suchmaschine
 
 - Aggregation der Inhalte
 - Herkömmliche und selbstlernende Algorithmen
@@ -291,20 +307,20 @@ Franz Enzenhofer
 - Semantische Interpretation, Cognitive Computing
 - Ranking Signals
 
-## SERP > Interpretation der Sucheingabe > Hummingbird
+## Interpretation der Sucheingabe: Hummingbird
 
 ![](pics/Google_Hummingbird_Logo.png)
 
-## SERP > Indizierung von Inhalten
+## SERP: Indizierung von Inhalten
 
 <!--
 <iframe width="844" height="425" src="https://www.youtube.com/embed/BNHR6IQJGZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 -->
 
-![](pics/cutts_search.png)
-<https://www.youtube.com/embed/BNHR6IQJGZs>
+[![](pics/cutts_search.png)](
+https://www.youtube.com/embed/BNHR6IQJGZs)
 
-## SERP > Bewerten der Relevanz und Qualität
+## SERP: Bewerten der Relevanz und Qualität
 
 [Search Quality rater guidelines](https://static.googleusercontent.com/media/www.google.com/de//insidesearch/howsearchworks/assets/searchqualityevaluatorguidelines.pdf) (PDF)
 
@@ -313,21 +329,21 @@ Franz Enzenhofer
 [A Visual History of Google Algorithm Updates](https://blog.hubspot.com/marketing/google-algorithm-visual-history-infographic)
 
 
-## SERP > Bewerten der Relevanz und Qualität
+## SERP: Bewerten der Relevanz und Qualität
 
 - [Content-Strategie statt SEO: Die Folgen von »Panda«](https://wittenbrink.net/lostandfound/content-strategie-statt-seo-die-folgen-von-panda/)
 
 - [Wie bewertet Google die Qualität von Inhalten?—Material zu Panda - Lost and Found](https://wittenbrink.net/lostandfound/wie-bewertet-google-die-qualitaet-von-inhaltenmaterial-zu-panda/)
 
-## SERP > Ranking Signals
+## SERP: Ranking Signals
 
 [The Periodic Table of SEO Success Factors - Search Engine Land](https://searchengineland.com/seotable)
 
-## SERP > Distribution
+## SERP: Distribution
 
-- Alle relevanten Inhalte müssen Google mitgeteilt werden
-- Sie werden indiziert, wenn sie Google Qualitätskriterien entsprechen
-- Wichtigstes Hilfsmittel für die Distribution sind Sitemaps
+- Alle relevanten Inhalte müssen der Suchmaschine mitgeteilt werden
+- Sie werden indiziert, wenn sie denQualitätskriterien entsprechen
+- Wichtigstes Hilfsmittel für die Distribution sind [Sitemaps](https://www.sitemaps.org/ "sitemaps.org - Home")
 
 ::: notes
 
@@ -337,12 +353,12 @@ Franz Enzenhofer
 
 :::
 
-## SERP > Optimierung
+## SERP: Optimierung
 
 - Moderne Suchmaschinen ranken nicht kontinuierlich gleich.
 - Das Ranking hängt vom Kontext ab.
 
-## SERP > Optimierung
+## SERP: Optimierung
 
 KPI: Ranking
 
@@ -351,7 +367,7 @@ KPI: Ranking
 - Zuordnung der Inhalte zu URLs
 - Semantisch korrektes Markup
 
-## SERP > Optimierung
+## SERP: Optimierung
 
 - Keywords in URLs, Titeln und Überschriften
 - Keywords in Navigations- und Inline-Links
@@ -369,15 +385,15 @@ Franz Enzenhofer
 
 :::
 
-## SERP > Optimierung
+## SERP: Optimierung
 
-- Trennen von Informations-, Orientierungs-  und Transaktionsinhalten
+- Trennen von Informations-, Orientierungs- und Transaktionsinhalten
 - Inhaltsqualität
 - Aktualität
 - Reputation und Verlinkung
 - Vertrauenswürdigkeit der Quelle
 
-## SERP > Optimierung > Indizierung
+## SERP: Indizierung
 
 - Ist der Google-Bot als Crawler zugelassen? (robots.txt/User-Agent-Weiche)
 - Wird die Webseite regelmäßig von Google gecrawlt?
@@ -387,7 +403,7 @@ Franz Enzenhofer
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
-## SERP > Optimierung > Indizierung
+## SERP: Indizierung
 
 - Wieviele Seiten sind im Index?
 - Wieviele Seiten sollten im Index sein?
@@ -397,7 +413,7 @@ Franz Enzenhofer
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
-## SERP > Optimierung > Zuordnung zu URLs
+## SERP: Zuordnung zu URLs
 
 - Gibt es überflüssige doppelte Inhalte?
 - Haben notwendige doppelte Inhalte `canonical`-Links?
@@ -405,7 +421,7 @@ Franz Enzenhofer
 - Wird die Indexierung verhindert, wo sie überflüssig ist?
 - Sind die Sprachen korrrekt angegeben?
 
-## SERP > Optimierung > Navigation
+## SERP: Navigation
 
 - Ist die Navigation verständlich?
 - Gibt es eine Breadcrumb-Navigation?
@@ -415,7 +431,7 @@ Franz Enzenhofer
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
-## SERP > Optimierung > Benennung der Inhalte
+## SERP: Benennung der Inhalte
 
 - Werden Titel oder Überschriften wiederholt?
 - Gibt es generierte, nicht sprechende Titel oder Überschriften?
@@ -423,7 +439,7 @@ Franz Enzenhofer
 - Gibt es zu lange Titel?
 - Sind alle URLs sprechend/lesbar?
 
-## SERP > Optimierung > Interne Links
+## SERP: Interne Links
 
 - Gibt es Fehlerseiten?
 - Gibt es verwaiste Seiten?
@@ -435,19 +451,19 @@ Franz Enzenhofer
 
 (Nach: [SEO-Audit in 13 Schritten](https://t3n.de/news/seo-audit-13-schritte-rankings-optimieren-678475/))
 
-## SERP > Optimierung > Semantisch korrektes Markup
+## SERP: Semantisch korrektes Markup
 
 - Ist das HTML der Seiten valide?
 - Wird überflüssiges Markup zur Präsentation verwendet?
 - Ist die Hierarchie der Überschriften korrekt?
 
-## SERP > Optimierung > Google Richtlinien
+## SERP: Google Richtlinien
 
 [Varvy SEO tool and optimization guide](https://varvy.com/)
 
 # Snippet
 
-## Snippet > Touchpoint
+## Das Snippet als Touchpoint
 
 > Gemeint ist die Kombination von der großen Überschrift, dem Teasertext und der URL der angezeigten Seite, die bei der Ergebnisliste einer Suchmaschine angezeigt wird.
 
@@ -455,7 +471,7 @@ Franz Enzenhofer
 
 ---
 
-## Snippet > Rich Results
+## Snippet: Rich Results
 
 > Rich-Suchergebnis: Ergebnis, das Stile, Bilder und andere Funktionen umfasst. Beispiele für Inhaltstypen mit Rich-Suchergebnissen sind Bücher (siehe Abbildung), Rezepte und Produkte. Beispiele für Funktionen sind Navigationspfade und Rezensions-Snippets.
 
@@ -463,23 +479,23 @@ Franz Enzenhofer
 
 ---
 
-## Snippet > Entscheidung für den Klick
+## Snippet: Entscheidung für den Klick
 
 - URL und Headline
 - Zitat
 - Strukturierte Information
 
-## Snippet > Interaktionen
+## Snippet: Interaktionen
 
 - Scannen
 - Klicken
 
-## Snippet > Behind the Scene
+## Snippet: Behind the Scene
 
 - Auswahlkriterien für das Snippet
 - Integration in den Knowledge Graph
 
-## Snippet > Optimierung
+## Snippet: Optimierung
 
 KPI: Click Through Rate
 
@@ -493,13 +509,13 @@ KPI: Click Through Rate
 - URLs sind keine Dateinamen
 - Kategorien in URL sind problematisch
 
-## URLs - Best Practice
+## URLs: Best Practice
 
 ![](https://d1avok0lzls2w.cloudfront.net/uploads/blog/54daf2683e1285.94585673.gif)
 
 <p class="rights">[Rand Fishkin: 15 SEO Best Practices for Structuring URLs - Moz](https://moz.com/blog/15-seo-best-practices-for-structuring-urls "15 SEO Best Practices for Structuring URLs - Moz")</p>
 
-## Snippet > Optimierung > Meta-Beschreibungen
+## Snippet: Meta-Beschreibungen
 
 - Beeinflussen nicht das Ranking
 - Aussagekräftig, aber nicht zu lang
@@ -520,36 +536,36 @@ Franz Enzenhofer
 
 :::
 
-## Snippet > Optimierung > Google Hinweise
+## Snippet: Google Hinweise
 
 [Aussagekräftige Titel und Snippets für Suchergebnisse erstellen](https://support.google.com/webmasters/answer/35624?hl=de)
 
-## Snippet > Optimierung > Structured Data
+## Snippet: Structured Data
 
 [Course  |  Search  |  Google Developers](https://developers.google.com/search/docs/data-types/course)
 
 # Aufrufen der Landing Page
 
-## Touchpoint: Übergang zur Landing-Page
+## Übergang zur Landing-Page als Touchpoint
 
 - Zeit
 - Einblendungen
 - Aufbau nach dem Start
 
-## Laden der Landing Page > Interaktionen
+## Laden der Landing Page: Interaktionen
 
 - Zurückklicken
 - Abbruch der Suche
 
-## Laden der Landing-Page > Behind the scene
+## Laden der Landing-Page: Behind the scene
 
 - Generieren der Seite
 - Caching der Seite (Accelerated Mobile Pages)
 - Transportzeiten
 
-## Laden der Landing Page > Optimierung
+## Laden der Landing Page: Optimierung
 
-KPI: Ladezeit
+- KPI: Ladezeit
 - Ladezeit verkürzen
 - Seitenaufbau steuern
 
@@ -561,26 +577,37 @@ KPI: Ladezeit
 
 # Landing Page
 
-## Landing Page > Touchpoint
+## Landing Page als Touchpoint
 
 - Above the Fold und Below the Fold
 - Screen-/Viewport-Größe
 - Scanbarkeit
 - Wahrnehmbare Hierarchie
 
-## Landing Page > Interaktionen
+## Landing Page: Interaktionen
 
 - Beschäftigung mit dem Inhalt
 - Bouncen
 
-## Landing Page > Behind the Scene
+::: notes
+
+Auf der Landing Page ist entscheidend, dass die User sofort erkennen, ob sie hier finden, was sie gesucht haben. Die Seite muss das Versprechen erfüllen, das das Snippet gegeben hat.
+
+:::
+
+## Landing Page: Behind the Scene
 
 - Inhaltliches und visuelles Design entsprechen den Suchintentionen
 
-## Landing Page > Optimierung
+::: notes
 
-KPI: Bounce Rate
+Hier ist es wichtig, die Landing Page überhaupt in Zusammenhang mit der Suche zu planen. Es geht darum die Seite als Antwort auf eine Frage zu konzipieren. Die Frage kann sein: Kann ich etwas kaufen oder tun? Oder: Finde ich, wo ich hin will? Oder: Finde ich die Antwort auf eine Frage?
 
+:::
+
+## Landing Page: Optimierung
+
+- KPI: Bounce Rate
 - Sofortiges Erkennen des gesuchten Inhalts
 - Abstimmung auf Suchintention
 - Relevanz-Signale, Kontextualisierung
@@ -588,28 +615,27 @@ KPI: Bounce Rate
 
 # Inhalt
 
-## Inhalt > Touchpoint
+## Inhalt als Touchpoint
 
 - Entspricht den Suchintentionen
 - Interaktionsmöglichkeiten / Call-To-Actions
 
-## Inhalt > Interaktion
+## Inhalt: Interaktion
 
-- Rezeption der Inhalte, Transaktion oder Navigation
+- Lesen/Ansehen, Transaktion oder Navigation
 - Folgen von Links/Navigationssignalen
 - Befolgen von Call-To-Actions
-- Akademisch: Zotieren, Teilen, Speichern/Bookmarken, Vernetzung mit AutorInnen
+- Akademisch: Notieren, Teilen, Speichern/Bookmarken, Vernetzung mit AutorInnen
 
-## Inhalt > Behind-the-scene
+## Inhalt: Behind the scene
 
 - Redaktion
 - Funktionalität
 - Marketing
 
-## Inhalt > Optimierung
+## Inhalt: Optimierung
 
-KPIs: Verweildauer, Aktionen
-
+- KPIs: Verweildauer, Aktionen
 - Qualität sicherstellen
 - Navigationspfade ermöglichen
 - Interaktionsmöglichkeiten/CTAs einfügen
@@ -639,9 +665,11 @@ Franz Enzenhofer
 
 ## Keine SEO ohne Feedback
 
-Minimum
+- Minimum:
 - Google Search Console
 - Google Analytics oder anderes Analytics Tool
+
+---
 
 <!--
 
